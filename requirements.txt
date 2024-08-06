@@ -1,0 +1,4 @@
+Django==4.2.3
+djangorestframework==3.14.0
+PyJWT==2.9.0
+drf-yasg==1.23.0
